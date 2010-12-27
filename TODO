@@ -1,0 +1,26 @@
+Implementing the loader(to be debugged.) and mapper. 
+- gene_feature_t should be a char rather than string. 
+
+Oct 28. 2010 
+- Load Data
+- do mapping
+- save mapping to file. 
+
+Oct 29. 2010 
+- Level one and two implementation
+- HashTree Implementation. 
+
+Oct 30. 2010
+- Joining and pruning. 
+
+Oct 31. 2010
+- Test with the above implementations. 
+
+Nov 1. 2010
+- Scanning.
+
+Nov 2. 2010 
+- Rule Generation. 
+
+Nov 4 - 10. 2010 
+- Extensive Testing. 
